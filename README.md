@@ -1,3 +1,3 @@
-"# One 1er repositorio" 
+"# One 1er repositorio" en modo github.io
 prueba de web con python
-resultado: solo codigo
+resultado:  
